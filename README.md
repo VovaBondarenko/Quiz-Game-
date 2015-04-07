@@ -12,4 +12,4 @@
 Донський Богдан
 
 ###UML diagram
-![alt tag](https://pp.vk.me/c623917/v623917941/225e1/Tg2kvXZ84FU.jpg)
+![alt tag](http://cs622824.vk.me/v622824941/261e0/qahgbVY_fSA.jpg)
